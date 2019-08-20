@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Combate">
+    <display-name lang="pt">Combate</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="ANIMAL PLANET">
+    <display-name lang="pt">ANIMAL PLANET</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
