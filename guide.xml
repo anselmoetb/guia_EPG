@@ -4,4 +4,8 @@
     <display-name lang="pt">Combate</display-name>
     <url>http://www.clarotv.com.br</url>
   </channel>
+  <channel id="ANIMAL PLANET">
+    <display-name lang="pt">ANIMAL PLANET</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
 </tv>
